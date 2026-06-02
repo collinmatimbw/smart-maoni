@@ -7,7 +7,7 @@ $step = isset($_GET['step']) ? $_GET['step'] : 'welcome';
 $db_host = 'localhost';
 $db_user = 'root';
 $db_password = '';
-$db_name = 'smart_feedback_db';
+$db_name = 'smart_maoni';
 
 // Try to connect
 $conn = @new mysqli($db_host, $db_user, $db_password, $db_name);

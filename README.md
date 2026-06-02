@@ -47,10 +47,10 @@ Or manually copy the `smart_feedback` folder into `C:\xampp\htdocs\`.
 
 1. Open your browser and go to `http://localhost/phpmyadmin`
 2. Click the **Import** tab
-3. Click **Choose File** and select `smart_feedback_db.sql` (located in the project root)
+3. Click **Choose File** and select `smart_maoni.sql` (located in the project root)
 4. Click **Go**
 
-The database `smart_feedback_db` will be created automatically with all tables and sample data.
+The database `smart_maoni` will be created automatically with all tables and sample data.
 
 ### 4. Access the app
 
@@ -85,7 +85,7 @@ smart_feedback/
 ├── conn.php              # Database connection
 ├── index.php             # Main application (SPA)
 ├── setup.php             # Setup helper (delete after use)
-├── smart_feedback_db.sql # Database dump for import
+├── smart_maoni.sql # Database dump for import
 ├── otp/                  # OTP functions
 │   ├── generate_otp.php
 │   └── otp_funct.php

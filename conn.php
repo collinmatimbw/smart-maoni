@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
 $db_host = 'localhost';
 $db_user = 'root';
 $db_password = '';
-$db_name = 'smart_feedback_db';
+$db_name = 'smart_maoni';
 
 // Create connection
 $conn = new mysqli($db_host, $db_user, $db_password, $db_name);

@@ -18,8 +18,8 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 -- Create database if not exists
-CREATE DATABASE IF NOT EXISTS `smart_feedback_db` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `smart_feedback_db`;
+CREATE DATABASE IF NOT EXISTS `smart_maoni` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `smart_maoni`;
 
 -- --------------------------------------------------------
 
