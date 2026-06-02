@@ -4,14 +4,9 @@
 -- 1. Open phpMyAdmin (http://localhost/phpmyadmin)
 -- 2. Click "Import" tab
 -- 3. Select this file and click "Go"
---    OR run directly in SQL tab
 --
 -- After import, copy the 'smart_feedback' folder to: C:\xampp\htdocs\
 -- Then access: http://localhost/smart_feedback/
---
--- Default Admin Login:
---   Username: admin
---   Password: admin123
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
